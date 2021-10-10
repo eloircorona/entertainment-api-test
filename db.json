@@ -1,0 +1,20 @@
+{
+  "category": [
+    { 
+      "id": 1,
+      "title": "Marvel",
+      items: [
+        { "id": 1, "title": "Iron Man", "year": "2008", "image": "http://api.eloir.net/images/iron_man.jpg", "cover": "http://api.eloir.net/images/iron_man_extended.jpg" },
+        { "id": 2, "title": "El increible Hulk", "year": "2008", "image": "http://api.eloir.net/images/hulk.jpg", "cover": "http://api.eloir.net/images/hulk_extended.jpg" },
+        { "id": 3, "title": "Iron Man 2", "year": "2010", "image": "http://api.eloir.net/images/iron_man_2.jpg", "cover": "http://api.eloir.net/images/iron_man_2_extended.jpg" },
+        { "id": 4, "title": "Thor", "year": "2011", "image": "http://api.eloir.net/images/thor.jpg", "cover": "http://api.eloir.net/images/thor_extended.jpg" },
+        { "id": 5, "title": "Capitán América: El primer vengador", "year": "2011", "image": "http://api.eloir.net/images/captain_america_the_first_avenger.jpg", "cover": "http://api.eloir.net/images/captain_america_the_first_avenger_extended.jpg" },
+        { "id": 6, "title": "Los vengadores", "year": "2012", "image": "http://api.eloir.net/images/the_avengers.jpg", "cover": "http://api.eloir.net/images/the_avengers_extended.jpg" },
+        { "id": 7, "title": "Iron Man 3", "year": "2013", "image": "http://api.eloir.net/images/iron_man_3.jpg", "cover": "http://api.eloir.net/images/iron_man_3.jpg" },
+        { "id": 8, "title": "Thor: El mundo oscuro", "year": "2013", "image": "http://api.eloir.net/images/thor_the_dark_world.jpg", "cover": "http://api.eloir.net/images/thor_the_dark_world_extended.jpg" },
+        { "id": 9, "title": "Capitán América: El soldado del invierno", "year": "2014", "image": "http://api.eloir.net/images/captain_america_the_winter_soldier.jpg", "cover": "http://api.eloir.net/images/captain_america_the_winter_soldier_extended.jpg" },
+        { "id": 10, "title": "Guardianes de la galaxia", "year": "2014", "image": "http://api.eloir.net/images/guardians_of_the_galaxy.jpg", "cover": "http://api.eloir.net/images/guardians_of_the_galaxy_extended.jpg" },
+      ]
+    }
+  ]
+}
