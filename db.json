@@ -3,7 +3,7 @@
     { 
       "id": 1,
       "title": "Marvel",
-      items: [
+      "items": [
         { "id": 1, "title": "Iron Man", "year": "2008", "image": "http://api.eloir.net/images/iron_man.jpg", "cover": "http://api.eloir.net/images/iron_man_extended.jpg" },
         { "id": 2, "title": "El increible Hulk", "year": "2008", "image": "http://api.eloir.net/images/hulk.jpg", "cover": "http://api.eloir.net/images/hulk_extended.jpg" },
         { "id": 3, "title": "Iron Man 2", "year": "2010", "image": "http://api.eloir.net/images/iron_man_2.jpg", "cover": "http://api.eloir.net/images/iron_man_2_extended.jpg" },
