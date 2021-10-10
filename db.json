@@ -13,7 +13,7 @@
         { "id": 7, "title": "Iron Man 3", "year": "2013", "image": "http://api.eloir.net/images/iron_man_3.jpg", "cover": "http://api.eloir.net/images/iron_man_3.jpg" },
         { "id": 8, "title": "Thor: El mundo oscuro", "year": "2013", "image": "http://api.eloir.net/images/thor_the_dark_world.jpg", "cover": "http://api.eloir.net/images/thor_the_dark_world_extended.jpg" },
         { "id": 9, "title": "Capitán América: El soldado del invierno", "year": "2014", "image": "http://api.eloir.net/images/captain_america_the_winter_soldier.jpg", "cover": "http://api.eloir.net/images/captain_america_the_winter_soldier_extended.jpg" },
-        { "id": 10, "title": "Guardianes de la galaxia", "year": "2014", "image": "http://api.eloir.net/images/guardians_of_the_galaxy.jpg", "cover": "http://api.eloir.net/images/guardians_of_the_galaxy_extended.jpg" },
+        { "id": 10, "title": "Guardianes de la galaxia", "year": "2014", "image": "http://api.eloir.net/images/guardians_of_the_galaxy.jpg", "cover": "http://api.eloir.net/images/guardians_of_the_galaxy_extended.jpg" }
       ]
     }
   ]
